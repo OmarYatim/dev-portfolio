@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/yatimomar/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/OmarYatim"
+        },
+        {
+            "network" : "email",
+            "href": "yatim4omar@gmail.com"
+        }
+    ]
+}

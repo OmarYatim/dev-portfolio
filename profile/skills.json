@@ -1,0 +1,58 @@
+{
+    "skills": [{
+     
+            "title": "Languages",
+            "items" : [
+     
+                {
+                    "icon": "images/skills/pngegg-1-1.png",
+                    "title": "C#"
+                },
+                {
+                    "icon": "images/skills/js.png",
+                    "title": "JavaScript"
+                },
+                {
+                    "icon": "images/skills/c-plus-plus.svg",
+                    "title": "C++"
+                },
+                {
+                    "icon": "images/skills/python.png",
+                    "title": "Python"
+                }
+        ]},
+        {
+            "title": "Frameworks",
+            "items" : [
+                {
+                    "icon": "images/skills/Angular.png",
+                    "title": "Angular"
+                },
+                {
+                    "icon": "images/skills/nodejs.png",
+                    "title": "Nodejs"
+                },
+                {
+                    "icon": "images/skills/Microsoft_.NET_logo.svg.png",
+                    "title": ".NET"
+                }
+            ]
+        },
+        {
+            "title" : "Outils & Platformes",
+            "items": [
+                {
+                    "icon": "images/skills/unity.svg",
+                    "title": "Unity"
+                },
+                {
+                    "icon": "images/skills/git.png",
+                    "title": "Git"
+                },
+                {
+                    "icon": "images/skills/Apache.png",
+                    "title": "SVN"
+                }
+            ]
+    }
+]}

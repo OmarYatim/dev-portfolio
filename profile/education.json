@@ -1,0 +1,24 @@
+{
+    "education":[
+        {
+            "title": "Sep 2023 - Présent",
+            "cardTitle": "Master développeur jeux vidéo",
+            "cardSubtitle":"LaHorde, Bordeaux"
+        },
+        {
+            "title": "Sep 2017 - Jun 2020",
+            "cardTitle": "Licence en développement jeux vidéo",
+            "cardSubtitle":"ISAMM"
+        },
+        {
+            "title": "2017",
+            "cardTitle": "Baccalauréat section Mathématiques, Mention bien",
+            "cardSubtitle":"Lycée Mohamed Attia Khaznadar"
+        },
+        {
+            "title": "2017",
+            "cardTitle": "Baccalauréat Français série scinetifique, Mention assez bien",
+            "cardSubtitle":"Candidature Libre, Académie d'Aix-Marseille"
+        }
+    ]
+}
