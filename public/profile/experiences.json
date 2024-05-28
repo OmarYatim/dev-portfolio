@@ -1,33 +1,42 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Full-time",
+            "title": "Stage développeur jeux vidéo / Développeur jeux vidéo",
+            "subtitle": "Blue Gravity Studios",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "J'ai rejoint l'équipe de 'ThePlatform', Un jeu Sandbox Multijoueur où j'ai été",
+                "responsable de la partie Networking.",
+                "Maintenant je fais partie de l'équipe Dananeer au sein de BGS, Dananeer est un jeu",
+                "de cartes inspirée de Conquan, un jeu de carte très populaire au moyen orient.",
+                "Dananeer Play Store: https://play.google.com/store/apps/details?id=com.Dananeer.-Dananeer",
+                "The platform Steam link: https://store.steampowered.com/app/2333280/The_Plat-form/"
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "11/2023 – Present"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
+            "title": "Co-fondateur",
+            "subtitle": "Tuntales Interactive",
             "workDescription": [
-                "Worked on abc."
+                "Travailler sur les mécaniques principales pour un jeu éducatif mobile en réalité augmentée pour enfants 'Hkeya w Ebra'.",
+                "Concevoir et mettre en œuvre une histoire centrale, un dialogue et des mécaniques de jeu de puzzle."
             ],
-            "dateText": "01/20XX – 05/20XX"
+            "dateText": "11/2020 – 08/2023"
         },
         {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
+            "title": "Junior Unity Programmer",
+            "subtitle": "Strange Loop Games",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
+                "Résolution de bugs",
+                "Travail sur de nouvelles fonctionnalités d'interface utilisateur dans Eco Survival",
+                "Mise en œuvre d'un nouveau système de notifications de jeu",
+                "Mise à jour du code hérité (conception et implémentation pour l'ancien système avec les mises à jour)",
+                "Mise à jour du système de chat (côté serveur et côté client)",
+                "Participation à la conception de l'interface utilisateur, à la conception de jeu et à l'amélioration de l'expérience utilisateur",
+                "Mise à niveau du système de gestion des icônes",
+                "Outils de débogage des animaux et de recherche de chemin",
+                "Découvrez Eco sur Steam : https://store.steampowered.com/app/382310/Eco/"
             ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "07/2021 – 10/2022"
         }
     ]
 }

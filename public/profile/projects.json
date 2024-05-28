@@ -1,149 +1,149 @@
 {
     "projects" : [
         {
-            "image" : "images/projects/portfolio-poster.png",
-            "title": "Dev Portfolio",
-            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "image" : "images/projects/Dananeer.png",
+            "title": "Dananeer",
+            "bodyText": "Embarquez pour un voyage avec Dananeer, qui présente Konkan (également connu sous le nom de Concan et Conquian), un jeu de cartes chargé d'histoire. Chéri par des générations, il est joué par des millions de personnes dans le monde entier.",
             "links": [
                 {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
+                    "text": "AppStore",
+                    "href": "https://apps.apple.com/be/app/dananeer/id6473837882"
                 },
                 {
-                    "text": "Live",
-                    "href": "https://mayankagarwal.me"
+                    "text": "PlayStore",
+                    "href": "https://play.google.com/store/apps/details?id=com.Dananeer.Dananeer&hl=en&gl=US"
                 }
             ],
             "tags" : [
-                "React",
-                "Portfolio",
-                "JavaScript"
+                "Unity",
+                "C#"
             ]
         },
         {
-            "image" : "images/projects/caaring-poster.png",
-            "title": "Caaring -  Cab Share App",
-            "bodyText": "- A Cab Sharing web app made using **Django** for **VIT** Students. People can create a new cab or request to join an existing cab.\n - Added User authentication and password reset using **SendGrid**.\n - Deployed on **heroku** using **gunicorn**.",
+            "image" : "images/projects/western2.png",
+            "title": "The Platform",
+            "bodyText": "La plateforme est un outil permettant de créer de nouveaux environnements, de nouveaux modes d'interaction et de nouvelles façons de jouer dans une myriade de mondes.  ",
             "links": [
                 {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Caaring"
+                    "text": "Site internet",
+                    "href": "https://agisplatform.com/home/"
                 },
                 {
-                    "text": "Live",
-                    "href": "http://caaring.herokuapp.com"
+                    "text": "Page steam",
+                    "href": "https://store.steampowered.com/app/2333280/The_Platform/"
                 }
             ],
             "tags" : [
-                "Python",
-                "Django",
-                "BootStrap",
-                "SendGrid",
-                "Heroku",
-                "Gunicorn",
-                "VIT"
+                "Unity",
+                "C#"
             ]
         },
         {
-            "image" : "images/projects/quiet-hours-poster.jpg",
-            "title": "Quiet Hours App",
-            "bodyText": "- An Android App that **automatically silences** your phone during class hours, designed for **VITians**.\n - Option to select class **slots** and **custom time**.\n - Option to put on Vibrate instead of Silent.",
+            "image" : "images/projects/Hkeya w EBra.png",
+            "title": "Histoire et morale (Hkeya w ebra)",
+            "bodyText": "'Hkeya w Ebra' est un jeu vidéo en réalité augmentée inspirée des histoires de Abdelaziz el aroui destinée aux enfants âgées entre 5 ans et 13 ans.",
             "links": [
                 {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/QuietHours-Android"
+                    "text": "Video",
+                    "href": "https://drive.google.com/file/d/1h0OEdJJ0jP0yDhu9UnISjPRzbgnP-oSc/view?usp=sharing"
                 }
             ],
             "tags" : [
-                "Java",
-                "Android",
-                "Alarm Manager",
-                "VIT"
+                "Unity",
+                "C#",
+                "EasyAR"
             ]
         },
         {
-            "title": "Secure Chat App",
-            "bodyText": "- An Android App that allows users to send texts in real time.\n - End to End encryption using **RSA** Algorithm.\n - Uses **Firebase** database to store texts.\n - Secured with **Fingerprint** lock.",
+            "image" : "images/projects/Eco Survival.jpg",
+            "title": "Eco Survival",
+            "bodyText": "Eco Survival est un jeu de survie global, où les joueurs doivent construire une civilisation dans un monde partagé:.",
             "links": [
                 {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/SecureChatApp"
+                    "text": "Site internet",
+                    "href": "https://play.eco"
+                },
+                {
+                    "text": "Page steam",
+                    "href": "https://store.steampowered.com/app/382310/Eco/"
                 }
             ],
             "tags" : [
-                "Java",
-                "Android",
-                "Firebase",
-                "RSA"
+                "Unity",
+                ".Net",
+                "C#"
             ]
         },
         {
-            "title": "MVVM Sample App",
-            "bodyText": "- An Android App that loads data from mock API and show in both **LinearLayout** and **GridLayout RecyclerView**.\n - Offline support using **Room** DB and **NetworkBoundResource**.\n - Uses the **MVVM** architecture.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/mvvm-sample-app"
-                }
-            ],
+            "image" : "images/projects/Roulette.png",
+            "title": "Roulette", 
+            "bodyText": "Jeu de roulette avec un dashboard admin.",
             "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Room",
-                "Coroutines",
-                "Flow",
-                "Hilt-Dagger",
-                "NetworkBoundResource"
+                "Unity",
+                "C#"
             ]
         },
         {
-            "title": "Feed List App",
-            "bodyText": "- An Android App that loads list of feeds from a **paginated** API and shows in a RecyclerView.\n - Uses the **MVVM** architecture.\n - Uses **Paging 3** library along with other Architecture Components.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Paginated-App-Feeds-List"
-                }
-            ],
+            "image" : "images/projects/epoch_conquest.jpg",
+            "title": "Epoch Conquest",
+            "bodyText": "Epoch Conquest est un jeu de bureau multijoueur de stratégie en temps réel qui se déroule dans un monde dynamique où l'histoire et la mythologie convergent. Il met l'accent sur la prise de décision tactique en temps réel, la gestion des ressources et la stratégie militaire.",
             "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Paging 3",
-                "Coroutines",
-                "Flow"
+                "Unity",
+                "C#"
             ]
         },
         {
-            "title": "Task Tracker",
-            "bodyText": "- A simple Task Tracker web app made with **Angular 12**.\n - Uses **mock JSON server** to get, add, delete or update tasks.",
+            "title": "FPS Gun Range",
+            "bodyText": "Jeu FPS réalisé avec unity, scène de tir avec différentes cibles (mobiles et fixes), le joueur gagne des scores différents selon qu'il touche le corps (10) ou la tête (25).",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/task-tracker-app"
+                    "href": "https://github.com/OmarYatim/FPS-Game"
+                },
+                {
+                    "text": "Video",
+                    "href": "https://www.youtube.com/watch?v=0B-m4ncixhk&list=PLeVF12MknBz8dm0vilBg_AhBus493EJ_Q"
                 }
             ],
             "tags" : [
-                "TypeScript",
-                "Angular 12",
-                "JavaScript"
+                "Unity",
+                "C#"
             ]
         },
         {
-            "title": "Image Encryption/Decryption",
-            "bodyText": "- A Web App for Image Encryption and Decryption made in **Django**.\n - Uses **SDES** algorithm for encryption/decryption.",
+            "title": "Jeu de Course",
+            "bodyText": "Mon dernier travail utilisant les wheel colliders dans Unity3D pour créer une mécanique complète de conduite de véhicule avec direction, freinage et systèmes sonores.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/img-encrypt-sdes"
+                    "href": "https://github.com/OmarYatim/Car-Project"
+                },
+                {
+                    "text": "Video",
+                    "href": "https://www.youtube.com/watch?v=nFs_JYtYnOA&list=PLeVF12MknBz8dm0vilBg_AhBus493EJ_Q&index=2"
                 }
             ],
             "tags" : [
-                "Python",
-                "Django",
-                "SDES",
-                "Cryptography"
+                "Unity",
+                "C#"
+            ]
+        },
+        {
+            "title": "Darek",
+            "bodyText": "Il s'agit d'un jeu de plateforme en 2D réalisé lors de l'ISAMM Global Game Jam 2019, j'étais le développeur du jeu dans mon équipe. Le thème du Game Jam était la maison, ce jeu parle d'un enfant qui se réveille la nuit, effrayé, et qui essaie de rejoindre ses parents.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/OmarYatim/Darek_GGJ_2019"
+                },
+                {
+                    "text": "Video",
+                    "href": "https://www.youtube.com/watch?v=NZH6bXBzB4A&list=PLeVF12MknBz8dm0vilBg_AhBus493EJ_Q&index=5"
+                }
+            ],
+            "tags" : [
+                "Unity",
+                "C#"
             ]
         }
     ]

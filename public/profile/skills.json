@@ -1,62 +1,57 @@
 {
-    "intro": "I love to learn new things and experiment with new technologies.\nThese are some of the major languages, technologies, tools and platforms I have worked with:",
     "skills": [{
      
-            "title": "Languages & Databases",
+            "title": "Languages",
             "items" : [
      
                 {
-                    "icon": "images/skills/java.png",
-                    "title": "Java"
-                },
-                {
-                    "icon": "images/skills/php.png",
-                    "title": "PHP"
+                    "icon": "images/skills/pngegg-1-1.png",
+                    "title": "C#"
                 },
                 {
                     "icon": "images/skills/js.png",
                     "title": "JavaScript"
                 },
                 {
-                    "icon": "images/skills/python.png",
-                    "title": "Python"
+                    "icon": "images/skills/c-plus-plus.svg",
+                    "title": "C++"
                 },
                 {
-                    "icon": "images/skills/mysql.png",
-                    "title": "MySQL"
+                    "icon": "images/skills/python.png",
+                    "title": "Python"
                 }
         ]},
         {
-            "title": "Frameworks & Technologies",
+            "title": "Frameworks",
             "items" : [
                 {
-                    "icon": "images/skills/android_new.png",
-                    "title": "Android"
-                },
-                {
-                    "icon": "images/skills/react.png",
-                    "title": "React"
+                    "icon": "images/skills/Angular.png",
+                    "title": "Angular"
                 },
                 {
                     "icon": "images/skills/nodejs.png",
                     "title": "Nodejs"
+                },
+                {
+                    "icon": "images/skills/Microsoft_.NET_logo.svg.png",
+                    "title": ".NET"
                 }
             ]
         },
         {
-            "title" : "Tools & Platforms",
+            "title" : "Outils & Platformes",
             "items": [
                 {
-                    "icon": "images/skills/android-studio.png",
-                    "title": "Android Studio"
+                    "icon": "images/skills/unity.svg",
+                    "title": "Unity"
                 },
                 {
                     "icon": "images/skills/git.png",
                     "title": "Git"
                 },
                 {
-                    "icon": "images/skills/docker.png",
-                    "title": "Docker"
+                    "icon": "images/skills/Apache.png",
+                    "title": "SVN"
                 }
             ]
     }

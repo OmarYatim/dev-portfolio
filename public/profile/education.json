@@ -1,19 +1,24 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
-            "icon" : {
-                "src": "images/education/lorem-ipsum.png"
-            }
+            "title": "Sep 2023 - Présent",
+            "cardTitle": "Master développeur jeux vidéo",
+            "cardSubtitle":"LaHorde, Bordeaux"
         },
         {
-            "title": "Apr 20XX",
-            "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
+            "title": "Sep 2017 - Jun 2020",
+            "cardTitle": "Licence en développement jeux vidéo",
+            "cardSubtitle":"ISAMM"
+        },
+        {
+            "title": "2017",
+            "cardTitle": "Baccalauréat section Mathématiques, Mention bien",
+            "cardSubtitle":"Lycée Mohamed Attia Khaznadar"
+        },
+        {
+            "title": "2017",
+            "cardTitle": "Baccalauréat Français série scinetifique, Mention assez bien",
+            "cardSubtitle":"Candidature Libre, Académie d'Aix-Marseille"
         }
     ]
 }
